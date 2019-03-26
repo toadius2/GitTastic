@@ -1,0 +1,51 @@
+body {
+	background-image: url("../images/1057cf7d6e6232b.jpg");
+	margin: 0px;
+	padding: 0px;
+}
+
+.buttons-view {
+	margin: 20px 0px 20px 0px;
+}
+
+.gifDiv {
+	margin-right: 10px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+label {
+	color: darkred;
+	font: bolder;
+	text-align: center;
+}
+
+.gifDiv {
+	color: orange;
+}
+
+.col-centered {
+    margin: auto;
+    float:none;
+}
+
+.topic {
+	margin-right: 5px;
+	margin-bottom: 5px;
+	background-color: rgb(235, 79, 79);
+	color: white;
+	font-weight: bold;
+}
+
+#add-topic {
+	background-color: rgb(235, 79, 79);
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+#topic-input {
+	width: 100%;
+	margin-top: 2px;
+}
